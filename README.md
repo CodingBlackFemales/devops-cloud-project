@@ -2,6 +2,7 @@
 ## To create these resources in AWS, install and configure AWSCLI
 
 ### Setup AWS & CLI
+- Install [AWSCLIv2](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 - Login to AWS Management Console and Generate a new KeyPair. 
 - Save the downloaded key
 - Configure AWS Command Line Interface (AWS CLI) with a new AWS Access Key and a secret generated on AWS
